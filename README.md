@@ -1,0 +1,5 @@
+- Instructions to Run:
+- Run pip install pytz openai azure-cosmos
+- Add your OpenAI key on line 15
+- Add your DB Account credentials
+- Run main() and input your query
